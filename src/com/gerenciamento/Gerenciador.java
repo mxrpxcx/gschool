@@ -54,7 +54,15 @@ public class Gerenciador {
 			System.out.println("*------------------------------------*");
 			System.out.println();
 			subOpcao = e.nextInt();
-			
+				switch(subOpcao) {
+				case 1:
+					
+					break;
+				case 2:
+					break;
+				case 3:
+					break;
+				}
 			}
 
 		    break;
@@ -69,8 +77,16 @@ public class Gerenciador {
 			  System.out.println("*-----------------------------------*");
 			  System.out.println();
 			  subOpcao = e.nextInt();
-			  
+			  switch(subOpcao) {
+				case 1:
+					break;
+				case 2:
+					break;
+				case 3:
+					break;
+				}	
 			  }
+			  
 		    break;
 		    
 		  case 3:
@@ -83,7 +99,14 @@ public class Gerenciador {
 			  System.out.println("*---------------------------------------*");
 			  System.out.println();
 			  subOpcao = e.nextInt();
-			  
+			  switch(subOpcao) {
+				case 1:
+					break;
+				case 2:
+					break;
+				case 3:
+					break;
+				}
 			  }
 			  
 		    break;
@@ -98,7 +121,14 @@ public class Gerenciador {
 			  System.out.println("*------------------------------------*");
 			  System.out.println();
 			  subOpcao = e.nextInt();
-			  
+			  switch(subOpcao) {
+				case 1:
+					break;
+				case 2:
+					break;
+				case 3:
+					break;
+				}
 			  }
 		    break;
 		}
