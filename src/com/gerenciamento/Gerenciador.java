@@ -59,12 +59,13 @@ public class Gerenciador {
 					
 					break;
 				case 2:
+					
 					break;
 				case 3:
+					
 					break;
 				}
 			}
-
 		    break;
 		    
 		  case 2:
@@ -79,14 +80,16 @@ public class Gerenciador {
 			  subOpcao = e.nextInt();
 			  switch(subOpcao) {
 				case 1:
+					
 					break;
 				case 2:
+					
 					break;
 				case 3:
+					
 					break;
 				}	
-			  }
-			  
+			}
 		    break;
 		    
 		  case 3:
@@ -101,14 +104,16 @@ public class Gerenciador {
 			  subOpcao = e.nextInt();
 			  switch(subOpcao) {
 				case 1:
+					
 					break;
 				case 2:
+					
 					break;
 				case 3:
+					
 					break;
 				}
-			  }
-			  
+			} 
 		    break;
 		    
 		  case 4:
@@ -123,16 +128,18 @@ public class Gerenciador {
 			  subOpcao = e.nextInt();
 			  switch(subOpcao) {
 				case 1:
+					
 					break;
 				case 2:
+					
 					break;
 				case 3:
+					
 					break;
 				}
-			  }
-		    break;
+		    }
+			break;
 		}
-		
 		
 		bfReader.close();
 		bfWriter.close();
